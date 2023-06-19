@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    max-width: 1500px;
+    /* background-color:#2A2A2A; */
+    
+    height: 600px;
+    /* border: solid 2px black; */
+}
+header nav ul{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+
+
+ul h1{
+    /* color: white; */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header nav{
+    margin: 40px;
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-around;
+}
+.blok2 h1{
+font-weight: 700;
+font-size: 100px;
+/* color: white; */
+}
+.blok3 img{
+    border-radius: 20%;
+}
+.menu2{
+    display: flex;
+    margin: 65px;
+    max-width: 1500px;
+    justify-content: space-around;
+}
+.blok2 h2{
+font-weight: 600px;
+/* color: white; */
+font-size: 48px;
+}
+header  button{
+height: 48px;
+width: 123px;
+background-color: #E29500;
+top: 598px;
+border-radius: 24px;
+/* padding-bottom: 20px; */
+}
+.blok2 p{
+    /* color: white; */
+}
+.buttuns{
+    padding-top: 20px;
+}
+.battn{
+height: 48px;
+width: 123px;
+/* color: red; */
+border-radius: 24px;
+border: solid 2x red;
+}
+.buttun{
+    margin: 30px;
+}
+.box{
+    border: solid black 1px;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    background-color:aliceblue;
+
+}
+.box button{
+    margin: 20px;
+    color: red;
+}
+.menu3{
+    display: flex;
+    margin: auto;
+    max-width: 1500px;
+    justify-content: space-around;
+    margin: 50px;
+}
+.suratlar{
+    text-align: center;
+    align-items: center;
+}
+.img{
+    max-width: 1200px;
+    margin: 30px auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.img button{
+    margin: 10px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.imgs h2{
+    text-align: center;
+    align-items: center;
+    color: blue;
+}
+.img2 img{
+    border-radius: 20px;
+}
+.img2 h2{
+    text-align: center;
+    align-items: center;
+    color: blue;
+}
+.img img{
+    border-radius: 20px;
+}
+.dostlar{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.xona h2{
+ color: blue;
+}
+.xona button{
+    margin: 10px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.xona img{
+    border-radius: 20px;
+}
+.room img{
+    border-radius: 25%;
+}
+.gird{
+    margin: 50px;
+}
+.but .buttuns{
+position: absolute;
+width: 139px;
+height: 48px;
+background-color: white;
+border-radius: 24px;
+
+}
+.but button{
+position: absolute;
+width: 189px;
+/* margin: 20px; */
+height: 48px;
+border-radius: 24px;
+background-color: red;
+}
+.but{
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+.gird{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+}
+.gird .rooms{
+    padding-top: 170px;
+}
+.but{
+    margin: 20px;
+}
+.hayot{
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+}
+.menu10{
+    max-width: 1500px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.blok10 img{
+    border-radius: 25px;
+}
+.blok10{
+    text-align: center;
+    margin: auto;
+    align-items: center;
+}
+.blok10 button{
+    margin: 15px;
+    color: red;
+}
+.hello button{
+width: 131px;
+height: 48px;
+background: #E27B3A;
+border-radius: 24px;
+
+}
+.hello{
+    text-align: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.menu11{
+    display: flex;
+    justify-content: 1200px;
+    justify-content:space-around ;
+}
+.futir{
+    padding-left: 100px;
+    text-align: center;
+    align-items: center;
+}
+.gool{
+    padding-right: 50px;
+}
